@@ -1,0 +1,16 @@
+C:\Users\vitas\Desktop\CounterControl\Client\bin\Debug\Client.exe.config
+C:\Users\vitas\Desktop\CounterControl\Client\bin\Debug\Client.exe
+C:\Users\vitas\Desktop\CounterControl\Client\bin\Debug\Client.pdb
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\MainWindow.g.cs
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\App.g.cs
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\MainWindow.baml
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client.g.resources
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client.exe
+C:\Users\vitas\Desktop\CounterControl\Client\obj\Debug\Client.pdb
