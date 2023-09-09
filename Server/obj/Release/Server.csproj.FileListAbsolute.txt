@@ -1,0 +1,11 @@
+C:\Users\vitas\Desktop\CounterControl\Server\bin\Release\Server.exe.config
+C:\Users\vitas\Desktop\CounterControl\Server\bin\Release\Server.exe
+C:\Users\vitas\Desktop\CounterControl\Server\bin\Release\Server.pdb
+C:\Users\vitas\Desktop\CounterControl\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\vitas\Desktop\CounterControl\Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\vitas\Desktop\CounterControl\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\vitas\Desktop\CounterControl\Server\obj\Release\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitas\Desktop\CounterControl\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\vitas\Desktop\CounterControl\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\vitas\Desktop\CounterControl\Server\obj\Release\Server.exe
+C:\Users\vitas\Desktop\CounterControl\Server\obj\Release\Server.pdb
